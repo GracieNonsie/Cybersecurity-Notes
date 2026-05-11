@@ -12,3 +12,7 @@
   4. Post-incident activity
  
 - Malware analysis is split into static and dynamic - static:inspecting the malicious program without running it; requires intensive knowledge of assembly language; -dynamic: running the malware in a controlled environment to monitor its activities.
+
+
+## Module 2: Networking
+-
