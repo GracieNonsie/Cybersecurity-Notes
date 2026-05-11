@@ -15,4 +15,13 @@
 
 
 ## Module 2: Networking
--
+- A network is a connection of devices.
+- There are public and private networks.
+- Devices on a network are identified by:
+- IP address (Ineterent Protocol Address)
+- MAC address (Media Access Control Address)
+- IP addresses use protocols to function. They can be either private IP addresses - which is used to identify a device amongst other devices; or public IP addresses identify devices on the internet. IPv6 is what is currently in use.
+- MAC address is a 16 character hexadecimal number split into twos by a colon.
+- A MAC address can be spoofed i.e. a networked device pretends to identify as another using it's MAC address.
+- A ping measures the time taken to communicate across a network; it uses the Internet Control Message Protocol.
+- 
